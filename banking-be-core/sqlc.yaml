@@ -1,0 +1,9 @@
+version: "2"
+sql:
+  - engine: "postgresql"
+    queries: "query.sql"
+    schema: "D:\\src\\banking\\db\\migrations\\000001_init_schema.up.sql"
+    gen:
+      go:
+        package: "tutorial"
+        out: "tutorial"
