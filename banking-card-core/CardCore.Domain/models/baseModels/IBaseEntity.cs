@@ -1,6 +1,6 @@
 
 
-namespace CardCore.Domain.models.baseModels
+namespace CardCore.Domain.Models.BaseModels
 {
     public interface IBaseEntity
     {

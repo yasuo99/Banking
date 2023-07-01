@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-namespace CardCore.Domain.models.baseModels
+namespace CardCore.Domain.Models.BaseModels
 {
     public class BaseEntity : IBaseEntity
     {
